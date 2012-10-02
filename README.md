@@ -1,4 +1,6 @@
-ultimate-flash-xhtmlizer
-========================
+Ultimate Flash XHTMLizer WordPress Plugin
+=========================================
 
-A WordPress plugin that turns Flash embed code into well-formed XHTML.
+Have you ever tried to validate a WordPress page that is full of Flash content and experienced some major pain throughout the process?  If so, then this plugin is just for you!
+
+Ultimate Flash XMTMLizer turns Flash embed code into well-formed XHTML by escaping object tags on the server side and unescaping them on the client side using JavaScript.
